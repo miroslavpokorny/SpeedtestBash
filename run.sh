@@ -1,5 +1,5 @@
 #!/bin/bash
-now=$(date +"%Y-%m-%d %H:%M:%S")
+now=$(date +"%Y_%m_%d-%H_%M_%S")
 file="$now.speedtest.log"
 
 speedtest --csv-header >> $file
