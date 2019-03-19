@@ -3,7 +3,7 @@ Bash script for automaticaly running speedtest
 
 ## Install
 
-pip install speedtest-cli
+https://github.com/sivel/speedtest-cli
 
 ## Execute
 
